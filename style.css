@@ -1,0 +1,33 @@
+/* Apply styles to the entire body of the page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header section with a background color and text color */
+header {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the h1 element */
+h1 {
+    font-size: 36px;
+}
+
+/* Style the main content section */
+main {
+    padding: 20px;
+}
+
+/* Style the footer section */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
